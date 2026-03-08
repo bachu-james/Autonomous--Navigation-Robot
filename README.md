@@ -111,10 +111,17 @@ ros2 run nav2_map_server map_saver_cli -f map
 Launch navigation using the saved map:
 
 ```bash
-ros2 launch nav2_bringup navigation_launch.py \
-map:=maps/map.yaml \
-use_sim_time:=true
+export TURTLEBOT3_MODEL=burger
+ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
 ```
+
+
+
+```bash
+export TURTLEBOT3_MODEL=burger
+ros2 launch turtlebot3_navigation2 navigation2.launch.py use_sim_time:=true
+```
+
 
 Open RViz:
 

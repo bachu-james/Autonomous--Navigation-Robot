@@ -3,7 +3,7 @@
 <package format="3">
   <name>autonomous_nav_robot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>autonomous_nav_robot</description>
   <maintainer email="bichujames29@gmail.com">bachu</maintainer>
   <license>TODO: License declaration</license>
 

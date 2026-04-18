@@ -20,6 +20,7 @@ The robot generates a map of an indoor environment using LiDAR and autonomously 
 ## video 
    
 
+<img width="400" height="206" alt="Recording 2026-04-18 142749" src="https://github.com/user-attachments/assets/59c4bc6a-bb8d-488a-ba0a-b41c689b905e" />
 
 
 video link : https://www.youtube.com/watch?v=_uocrmAddO8

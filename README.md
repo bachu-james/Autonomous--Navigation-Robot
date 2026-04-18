@@ -16,7 +16,9 @@ The robot generates a map of an indoor environment using LiDAR and autonomously 
 * Full simulation using **Gazebo**
 
 ---
-## video link 
+## video 
+   
+
 video link : https://www.youtube.com/watch?v=_uocrmAddO8
 
 ## System Architecture
